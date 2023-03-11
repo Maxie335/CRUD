@@ -1,0 +1,58 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#nav{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-bottom: 1px solid wheat;
+}
+#nav a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+#myForm{
+    height: 90vh;
+    width: 100%;
+    background: linear-gradient(black,rgb(116, 114, 114));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+#myForm form{
+    height: 250px;
+    width: 300px;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#userpage{
+    height: 90vh;
+    width: 100%;
+    background: linear-gradient(black,rgb(116, 114, 114));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#card{
+    height: 250px;
+    width: 300px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}
+#card td{
+    padding: 10px;
+}

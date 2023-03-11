@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "max",
+      "salary": "555",
+      "company": "tcs",
+      "id": 1
+    }
+  ]
+}
